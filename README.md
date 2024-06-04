@@ -26,4 +26,18 @@ git clone git@github.com:pereruannabaala/Delani.git
 cd Delani
 ```
 
-##Usage
+## Usage
+
+To view the website locally:
+
+1. Open the main HTML file:
+- Open "index.html" in your preferred web browser.
+2. Navigate through the site
+Use the navigation menu to visit different sections
+
+## Contact
+If you have any questions or would like to get in touch, please contact us via:
+
+- Email: pereruannabaala@gmail.com
+- Phone: +254757364069
+- Address: Nakuru
