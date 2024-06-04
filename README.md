@@ -18,11 +18,11 @@ Our Studio Website serves as an online presence for our creative studio, showcas
 To run the website locally, follow these steps:
 
 1. Clone the repository
-```
+```python
 git clone git@github.com:pereruannabaala/Delani.git
 ```
 2. Navigate to the project directory:
-```
+```python
 cd Delani
 ```
 
