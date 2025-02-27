@@ -1,4 +1,4 @@
-no# Delani Studio README
+# Delani Studio 
 
 Welcome to our Studio Website! This README file provides an overview of the website's structure, contents, and how to set it up and use it.
 
