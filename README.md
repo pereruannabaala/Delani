@@ -1,4 +1,4 @@
-# Delani Studio README
+no# Delani Studio README
 
 Welcome to our Studio Website! This README file provides an overview of the website's structure, contents, and how to set it up and use it.
 
@@ -41,3 +41,4 @@ If you have any questions or would like to get in touch, please contact us via:
 - Email: pereruannabaala@gmail.com
 - Phone:+254757364069
 - Address: Narok
+- Postal Code: 20500
