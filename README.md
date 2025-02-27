@@ -39,5 +39,5 @@ Use the navigation menu to visit different sections
 If you have any questions or would like to get in touch, please contact us via:
 
 - Email: pereruannabaala@gmail.com
-- Phone: +254757364069
-- Address: Nakuru
+- Phone:+254757364069
+- Address: Narok
